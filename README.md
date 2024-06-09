@@ -1,4 +1,9 @@
 # GEOSPATIAL--TEMPORAL-VISUALIZATION-OF-GROUND-WATER-DATA-ON-MAP-OF-INDIA
+
+About Dataset:
+water sample data collected across India from 2010 to 2018 by a government organization. It contains two main types of information. The first type includes geographical details such as site ID, state name, latitude and longitude values, district name, and block name. The second type encompasses water quality parameters, listing values for Total Dissolved Solids (TDS), sulphate, calcium, arsenic, fluoride, iron, and 17 other chemical components. This extensive dataset serves as a crucial resource for analyzing the water quality across different regions of India over the specified period, providing valuable insights for environmental monitoring and public health initiatives.
+
+
 Objective 
 ➢ Visualize groundwater data on the map of India indicating water quality by region.
 ➢ Ascertain if the physicochemical parameters fall within the prescribed range for drinking water standards according to BIS/WHO.
